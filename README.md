@@ -11,6 +11,10 @@
   The unopinionated and powerful protocol for on-chain payment processing.
 <p>
 
+<p align="center">
+    This repository contains the infrastructure code for Mutuals to provision and manage servers that are fully reproducible and declarative.
+<p>
+
 ---
 
 ## Documentation
